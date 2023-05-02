@@ -2,7 +2,7 @@
 This repository contains a collection of Jupyter notebooks about programming in Python. These notebooks cover a range of topics, including Python objects, data structures, comparison operators, logical operators, statements, methods, and functions. Whether you're a beginner looking to learn Python or an experienced programmer looking to brush up on your skills, these notebooks are a great resource.
 
 ## Table of Contents
-- Python Language and Sintax
+- Python Language and Syntax
     - Python Objects
     - Data Structures
     - Comparison Operators
